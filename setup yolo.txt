@@ -1,0 +1,8 @@
+conda env create -f yolo.yml
+conda env list
+python detect.py --images img_name
+(to know a;ll obj in image)
+
+yolo.yml conatinas all dependencies
+
+yolo for object detection realtime also used in automative cars
